@@ -1,0 +1,23 @@
+body{
+  padding: 0;
+  margin:0;
+  text-align: center;
+  background-color: palegreen;
+}
+
+body *{
+  margin-bottom: 5vh;
+}
+
+.icon{
+  border-image: 200px;
+  min-width: 300px;
+  max-width: 300px;
+}
+h1 {
+  font-style: inherit;
+  
+}
+.convert {
+  font-style: initial;
+}
